@@ -17,7 +17,9 @@ function Navbar() {
             alignItems: 'center',
         }
     }>
-        <Link to="/">
+        
+        <div style={{width:'200px',height:'70px',color:'black',marginRight:'74%',fontSize:'160%',alignContent:'center'}}>PRODUCT APP</div>
+         <Link to="/">
         <button style={
             {
                 marginLeft: '20px',
